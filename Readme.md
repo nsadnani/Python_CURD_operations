@@ -93,8 +93,7 @@ Entry updated Successfully!
 4.View user  
 5.Exit  
 Enter your choice:4  
-| ID | Name | Passd | Email | Address  
----- 
+ID | Name | Passd | Email | Address   
 | 1 | Rahul | root123 | rahul@gmail.com | Al rigga,Dubai  
 | 2 | Niki | abc123 | niki@gmail.com | baner,Pune  
 | 3 | Dugu | xyz123 | Dugu@gmail.com | navi mumbai  
