@@ -13,11 +13,11 @@ This project contains python menu driven program which can perform below operati
 It requires python3,Mysql and python modules like:PyMySql installed.  
 Create database name mydb,user root with password 'root123'.Copy this project on your machine and execute database_CURD_OPERATIONS.  
 
-#### Usage   
+#### Usage:    
 Below is the syntax to run:  
 C:\Users\python_db_examples>python database_CURD_operations.py  
 
-Output:  
+Output:
 C:\Users\sadnan\Desktop\python_db_examples>python database_CURD_operations.py  
 C:\Python34\lib\site-packages\pymysql\cursors.py:166: Warning: (1050, "Table 'user' already exists")  
   result = self._query(query)  
