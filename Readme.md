@@ -1,7 +1,7 @@
 # Python_CURD_operations
 Create,Update,Retrieve,Display d operations with python  
 
-##Description  
+## Description  
 
 This project contains python menu driven program which can perform below operations:  
 1.Add  
@@ -9,11 +9,11 @@ This project contains python menu driven program which can perform below operati
 3)Retrieve  
 4)Display  
 
-###Requirements   
+### Requirements   
 It requires python3,Mysql and python modules like:PyMySql installed.  
 Create database name mydb,user root with password 'root123'.Copy this project on your machine and execute database_CURD_OPERATIONS.  
 
-####Usage   
+#### Usage   
 Below is the syntax to run:  
 C:\Users\python_db_examples>python database_CURD_operations.py  
 
